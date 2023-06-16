@@ -1,0 +1,91 @@
+h2{
+    color: red;
+}
+.titreVert{
+    color: green;
+}
+
+.grille{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+}
+
+h2{
+   
+   color: rgb(163, 7, 7); 
+
+}
+
+h1{
+
+    color: green
+
+
+}
+
+
+h1{
+    color: black;
+}
+
+h1{
+
+    color: black;
+}
+
+h1{
+
+    color: red;
+}
+
+h2{
+
+    color: blue;
+}
+
+h3{
+
+    color: purple;
+}
+
+h4{
+
+    color: gold;
+}
+
+.carte1{
+    background-color: bisque;
+    border-radius: 25px;
+    border: solid black 3px;
+    padding: 10px;
+    text-align: justify;
+    margin: 25px;
+}
+
+.carte{
+    background-color: red;
+    border-radius: 25px;
+    border: solid black 3px;
+    padding: 10px;
+    text-align: justify;
+    margin: 25px;
+
+}
+
+.carte3 {
+    background-color: yellow;
+    border-radius: 25px;
+    border: solid violet 3px;
+    padding: 10px;
+    text-align: justify;
+    margin: 25px;
+}
+
+.carte4 {
+    background-color: violet;
+    border-radius: 25px;
+    border: solid blue 3px;
+    padding: 10px;
+    text-align: justify;
+    margin: 25px;
+}
